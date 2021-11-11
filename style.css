@@ -124,9 +124,9 @@ text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
     text-transform: uppercase;
 }
 
-/* Slider */
-.slider img {
-    margin-top: 120px;
+/* carousel */
+.carousel img {
+    height: 540px;
 }
 
 /* contact */
